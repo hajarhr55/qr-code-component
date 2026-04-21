@@ -1,6 +1,6 @@
 # QR Code Component
 
-![Preview](./preview.jpg)
+![Preview](images/preview.jpg)
 
 This is a solution to a challenge from Frontend Mentor.
 
@@ -27,7 +27,7 @@ A simple responsive card that displays a QR code with a title and description.
 
 ## Live Demo
 
-https://your-github-pages-link-here
+[https://your-github-pages-link-here](https://hajarhr55.github.io/qr-code-component/)
 
 ## Author
 
