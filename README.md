@@ -27,7 +27,7 @@ A simple responsive card that displays a QR code with a title and description.
 
 ## Live Demo
 
-[https://your-github-pages-link-here](https://hajarhr55.github.io/qr-code-component/)
+(https://hajarhr55.github.io/qr-code-component/)
 
 ## Author
 
